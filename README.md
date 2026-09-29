@@ -6,7 +6,7 @@ Once an account with sub is created claude code can be ran in a browser from the
 
 
 
-#Install Claude Code UI
+## Install Claude Code UI
 
 Download Windows installer from https://claude.com/product/claude-code?utm_source=google_brand&utm_medium=cpc&utm_campaign=%7Bcampaign%7D&utm_content=823447292796&utm_term=anthropic+code&gclid=EAIaIQobChMIjcO-l5mSlwMVT49QBh29iiCeEAAYASAAEgLJfPD_BwE&gbraid=0AAAAAqwcL8lWmLimN4S7HiA5yHXN2T3qb
 
@@ -14,7 +14,7 @@ Run Claude Setup.exe, once installed the claude code ui can be found in the star
 
 
 
-#Installing the terminal
+## Installing the terminal
 
 Run the command relating to your OS
 
@@ -37,7 +37,7 @@ after adding the bin directory to the PATH env var and restarting the terminal, 
 running clude now starts the clude code terminal
 
 
-#Setting up the terminal
+## Setting up the terminal
 
 run the command claude in the terminal
 
@@ -47,7 +47,7 @@ claude will now ask about your subscription, I have a Pro account so choose 1. C
 
 
 
-#IDE plugins
+## IDE plugins
 
 The Jetbeans IDEs (IntelliJ IDEA, PyCharm, Android Studio) support the claude plug called Claude Code [Beta]. This can be installed through the plug in menu (this plug in might not appear in older versions of the IDE. VS Code has an extension for Claude Code called "Claude Code for VS Code".
 
